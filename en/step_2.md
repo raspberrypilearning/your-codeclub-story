@@ -56,10 +56,10 @@ You're ready to type!
 
 ## Step 2: Answer the writing prompts
 
-Choose **two or three** of these prompts, or use the ones your club leader has chosen. You don’t need to answer them all — just pick the ones that feel most ‘you’.
+Choose **two or three** of these prompts, or use the ones your club leader has chosen. You don’t need to answer them all — just pick the ones that feel most ‘you’:
 
---- task ---
 ### Writing prompts
+--- task ---
 
 * What’s the coolest thing you’ve ever made in our Code Club?
 * What makes our Code Club different from any other?
@@ -68,6 +68,7 @@ Choose **two or three** of these prompts, or use the ones your club leader has c
 * What’s one day in Code Club that stands out? Why?
 * If you were introducing our Code Club to someone on a podcast, what story would you tell?
 * How do you feel when you walk into our Code Club space?
+
 --- /task ---
 
 You can start with a quick “About me” line at the top, like this:
@@ -79,7 +80,16 @@ About me:
 I’ve been coming to Code Club for about six months. I love Scratch, especially making games and glitchy animations.
 ```
 
-Write your answers in your normal voice — like you're talking to someone who's never been to your club before.
+Write your answers in your normal voice - like you're talking to someone who's never been to your club before.
+
+### Need help writing?
+You can ask your leader to help you write your answers down, or you can try using one of these tools to turn speech into text:
+
+- [galaxy.ai](https://galaxy.ai/ai-transcription)
+- [evernote.com/ai-transcribe](https://evernote.com/ai-transcribe)
+
+You can also record your answers on a phone or tablet and ask your leader or a parent to help type them up.`
+
 
 ## Step 3: Save your writing
 
@@ -91,9 +101,9 @@ Click File > Save
 
 --- task ---
 
-Name your file with just your first name, like ava.txt
+Name your file with just your first name, like `ava.txt` or `sahjan.txt`
 
-- Make sure it ends with .txt
+- Make sure it ends with `.txt`
 - Don’t include your surname, address or any personal details
 
 --- /task ---
@@ -103,11 +113,3 @@ Name your file with just your first name, like ava.txt
 Get your club leader to check your file and use it to help generate the podcast.
 
 --- /task ---
-
-### Need help writing?
-You can ask your leader to help you write your answers down, or you can try using one of these tools to turn speech into text:
-
-- [galaxy.ai](https://galaxy.ai/ai-transcription)
-- [evernote.com/ai-transcribe](https://evernote.com/ai-transcribe)
-
-You can also record your answers on a phone or tablet and ask your leader or a parent to help type them up.

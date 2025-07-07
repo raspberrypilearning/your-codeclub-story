@@ -1,42 +1,20 @@
 ## What you will make
-OR
-## What you will do - change meta if you use this
 
-A brief description - one or two sentences. 
+A `.txt` file containing your answers to a few simple prompts about your Code Club.
 
---- print-only ---
-![ALT TEXT](images/IMAGE.png)
---- /print-only ---
+Your leader will collect everyone’s `.txt` files and feed them into an AI system called **NotebookLM** that turns your words into a podcast that sounds just like the real thing!
 
---- no-print ---
+You don’t need to record anything. You don’t need to be a professional writer.
 
-Editor embed 
+You just need to tell us about your Code Club, in your own words.
 
---- /no-print ---
+### Tell your story
 
---- no-print ---
-Video embed
+This is your chance to share what Code Club means to you.
 
-<video width="640" height="360" controls>
-<source src="images/videoname.mp4" type="video/mp4">
-</video>
+You’ll write about your club - what you love, what you remember, what makes it yours. 
 
-Youtube embed 
-<html>
-<div style="position: relative; overflow: hidden; padding-top: 56.25%;">
-<iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/XXXXXXXXX?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share">
-</iframe>
-</div><br>
-</html>
+Then, your writing will become a real podcast, and a fun, shareable story about your club!
 
-Scratch embed
-<div class="scratch-preview">
- <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/XXXXXXXXX/?autostart=false" frameborder="0"></iframe>
-</div>
+Let's get started!
 
---- /no-print ---
-
-### You will need:
-- a
-- b
-- c

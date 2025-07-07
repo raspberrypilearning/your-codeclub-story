@@ -102,7 +102,7 @@ Write your answers in your normal voice - like you're talking to someone who's n
 You can ask your leader to help you write your answers down, or you can try using one of these tools to turn speech into text:
 
 - [galaxy.ai](https://galaxy.ai/ai-transcription)
-- [evernote.com/ai-transcribe](https://evernote.com/ai-transcribe)
+- [evernote](https://evernote.com/ai-transcribe)
 
 You can also record your answers on a phone or tablet and ask your leader or a parent to help type them up.`
 

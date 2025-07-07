@@ -10,6 +10,8 @@ You just need to tell us about your Code Club, in your own words.
 
 -----
 
+![Transcript summary interface showing young coders' stories with source file, full text, playback controls, and notes.](images/NBLM_screenshot.png)
+
 ### Tell your story
 
 This is your chance to share what Code Club means to you.

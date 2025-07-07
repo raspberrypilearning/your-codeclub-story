@@ -1,5 +1,23 @@
 ## Think about your Code Club
 
+--- task ---
+
+Start with your first name and a quick “About me” line at the top, like this:
+
+```text
+First name: Ava
+
+About me:
+I’ve been coming to Code Club for about six months. I love Scratch, 
+especially making games and glitchy animations.
+```
+
+**Tip:** Write your answers in your normal voice - like you're talking to someone who's never been to your club before.
+
+--- /task ---
+
+### Write about your code club
+
 Choose **two or three** of these prompts, or use the ones your club leader has chosen. You don’t need to answer them all (unless you want to)!
 
 ### Writing prompts
@@ -45,17 +63,6 @@ How do you feel when you walk into our Code Club space?
 
 --- /task ---
 
-Start with your first name and a quick “About me” line at the top, like this:
-
-```text
-First name: Ava
-
-About me:
-I’ve been coming to Code Club for about six months. I love Scratch, 
-especially making games and glitchy animations.
-```
-
-Write your answers in your normal voice - like you're talking to someone who's never been to your club before.
 
 ### Need help writing?
 You can ask your leader to help you write your answers down, or you can try using one of these tools to turn speech into text:

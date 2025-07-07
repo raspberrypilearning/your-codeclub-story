@@ -5,13 +5,43 @@ Choose **two or three** of these prompts, or use the ones your club leader has c
 ### Writing prompts
 --- task ---
 
-* What’s the coolest thing you’ve ever made in our Code Club?
-* What makes our Code Club different from any other?
-* If our Code Club had a motto or catchphrase, what would it be and why?
-* Who are the characters in our club story? (people, inside jokes, traditions, mascots)
-* What’s one day in Code Club that stands out? Why?
-* If you were introducing our Code Club to someone on a podcast, what story would you tell?
-* How do you feel when you walk into our Code Club space?
+What’s the coolest thing you’ve ever made in our Code Club?
+
+--- /task ---
+
+--- task ---
+
+What makes our Code Club different from any other?
+
+--- /task ---
+
+--- task ---
+
+If our Code Club had a motto or catchphrase, what would it be and why?
+
+--- /task ---
+
+--- task ---
+
+Who are the characters in our club story? (people, inside jokes, traditions, mascots)
+
+--- /task ---
+
+--- task ---
+
+What’s one day in Code Club that stands out? Why?
+
+--- /task ---
+
+--- task ---
+
+If you were introducing our Code Club to someone on a podcast, what story would you tell?
+
+--- /task ---
+
+--- task ---
+
+How do you feel when you walk into our Code Club space?
 
 --- /task ---
 

@@ -16,11 +16,10 @@ Scratch, especially making games and glitchy animations.
 
 --- /task ---
 
-### Write about your code club
+### Writing prompts
 
 Choose **two or three** of these prompts, or use the ones your club leader has chosen. You don’t need to answer them all (unless you want to)!
 
-### Writing prompts
 --- task ---
 
 What’s the coolest thing you’ve ever made in our Code Club?

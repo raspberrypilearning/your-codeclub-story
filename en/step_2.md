@@ -71,7 +71,7 @@ Choose **two or three** of these prompts, or use the ones your club leader has c
 
 --- /task ---
 
-You can start with a quick “About me” line at the top, like this:
+Start with your first name and a quick “About me” line at the top, like this:
 
 ```text
 First name: Ava

@@ -71,7 +71,7 @@ You’re ready to type!
 
 ## Step 2: Answer the writing prompts
 
-Choose **two or three** of these prompts, or use the ones your club leader has chosen. You don’t need to answer them all — just pick the ones that feel most ‘you’:
+Choose **two or three** of these prompts, or use the ones your club leader has chosen. You don’t need to answer them all (unless you want to)!
 
 ### Writing prompts
 --- task ---
@@ -92,7 +92,8 @@ Start with your first name and a quick “About me” line at the top, like this
 First name: Ava
 
 About me:
-I’ve been coming to Code Club for about six months. I love Scratch, especially making games and glitchy animations.
+I’ve been coming to Code Club for about six months. I love Scratch, 
+especially making games and glitchy animations.
 ```
 
 Write your answers in your normal voice - like you're talking to someone who's never been to your club before.

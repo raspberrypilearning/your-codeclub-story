@@ -1,4 +1,4 @@
-## Think about your Code Club
+## Talk about your Code Club
 
 --- task ---
 

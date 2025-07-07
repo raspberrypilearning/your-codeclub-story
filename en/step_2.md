@@ -47,12 +47,27 @@ title: I'm using Linux
 
 Open the application menu and search for `Leafpad` or `Gedit`.
 
-If neither is available, you can use any basic text editor — just make sure you can save the file as `.txt`.
+If your device doesn’t have these apps installed, you can use a website like [https://editpad.org](https://editpad.org) — just remember to download your file as `.txt` when you’re done.
 
 You're ready to type!
 --- /collapse ---
 
+--- collapse ---
+---
+title: I'm using ChromeOS
+---
+
+1. Click the **Launcher** (circle icon in the bottom-left corner)
+2. Type `Text` in the search bar
+3. Open the **Text** app (it’s the default plain text editor)
+
+If your device doesn’t have the Text app installed, you can use a website like [https://editpad.org](https://editpad.org) — just remember to download your file as `.txt` when you’re done.
+
+You’re ready to type!
+--- /collapse ---
+
 --- /task ---
+
 
 ## Step 2: Answer the writing prompts
 

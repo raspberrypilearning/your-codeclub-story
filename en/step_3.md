@@ -64,7 +64,7 @@ How do you feel when you walk into our Code Club space?
 
 
 ### Need help writing?
-You can ask your leader to help you write your answers down, or you can try using one of these tools to turn speech into text:
+You can ask your leader to help you write your answers down, or you can try using one of these tools to turn speech into text (if you have a microphone):
 
 - [galaxy.ai](https://galaxy.ai/ai-transcription)
 - [evernote](https://evernote.com/ai-transcribe)

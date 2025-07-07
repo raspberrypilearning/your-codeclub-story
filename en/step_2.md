@@ -2,7 +2,6 @@
 
 You’re going to write your answers in a plain `.txt` file using a basic text editor. Follow the steps below.
 
----
 
 ### Open a text editor
 

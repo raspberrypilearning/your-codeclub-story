@@ -1,4 +1,4 @@
-## Give your thoughts to an AI
+## Give your thoughts to an LLM
 
 --- task ---
 

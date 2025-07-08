@@ -2,7 +2,7 @@
 
 A `.txt` file containing your answers to a few simple prompts about your Code Club.
 
-Your leader will collect everyone’s `.txt` files and feed them into an AI system called **NotebookLM** that turns your words into a podcast that sounds just like the real thing!
+Your leader will collect everyone’s `.txt` files and feed them into an AI system (a Large Language Model or LLM) called **NotebookLM** that turns your words into a podcast that sounds just like the real thing!
 
 You don’t need to record anything. You don’t need to be a professional writer.
 

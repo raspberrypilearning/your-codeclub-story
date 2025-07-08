@@ -8,6 +8,14 @@ You don’t need to record anything. You don’t need to be a professional write
 
 You just need to tell us about your Code Club, in your own words.
 
+You can play an example podcast about a made-up code club here:
+
+<audio controls style="width:100%;max-width:448px;">
+  <source src="images/ccpodcast.mp3" type="audio/mpeg">
+  Your browser doesn’t support the <code>&lt;audio&gt;</code> element —
+  <a href="images/ccpodcast.mp3">download the file instead</a>.
+</audio>
+
 -----
 
 ![Transcript summary interface showing young coders' stories with source file, full text, playback controls, and notes.](images/NBLM_screenshot.png)

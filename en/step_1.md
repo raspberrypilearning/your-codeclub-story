@@ -8,6 +8,9 @@ You don’t need to record anything. You don’t need to be a professional write
 
 You just need to tell us about your Code Club, in your own words.
 
+![NotebookLM interface showing young coders' stories with source file, full text, playback controls, and notes.](images/NBLM_screenshot.png)
+
+
 ### Listen
 
 --- task ---
@@ -22,7 +25,6 @@ You can play an example podcast about a made-up code club here:
 
 --- /task ---
 
-![Transcript summary interface showing young coders' stories with source file, full text, playback controls, and notes.](images/NBLM_screenshot.png)
 
 ### Tell your story
 

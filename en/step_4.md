@@ -20,3 +20,5 @@ Name your file with just your first name, like `ava.txt` or `sahjan.txt`
 Get your club leader to check your file and use it to help generate the podcast.
 
 --- /task ---
+
+In the next step, pretend to be an LLM and generate a crazy story using dice!

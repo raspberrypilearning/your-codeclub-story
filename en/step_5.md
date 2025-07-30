@@ -2,13 +2,13 @@
 
 While you wait for the LLM to create your new podcast, play a fun Unplugged game with your creators where they use dice to make crazy stories, and learn a little bit about how LLMs create sentences.
 
-### **Overview:**
+### Overview:
 
 You're training an AI system called an **LLM** that uses your stories to answer questions, and make a podcast with AI voices. But an LLM like NotebookLM doesn’t actually think, or understand *anything*: it just guesses what seems like it should come next in a sentence.
 
 The higher the “temperature” set for the LLM, the wilder its guesses get. Use dice rolls to control the **temperature** of a story and see what your LLM comes up with!
 
-### **You’ll Need:**
+### You’ll Need:
 - 6 sided die ([or make your own from paper here](resources/dice.pdf){:target="_blank"})
 - Pencil
 - Handout ([available here](resources/LLMStorytime_creator.pdf){:target="_blank"})
@@ -31,9 +31,16 @@ This determines which table you should use below when creating your stories.
 
 ### Generate a Story
 
-In a \[**adjective**\] \[**place**\], a \[**person**\] found a \[**adjective**\] \[**thing**\].  
-Curious, they tried to \[**verb**\] it, but that only made things \[**adjective**\].  
-Moments later, something \[**adjective**\] happened when a \[**adjective**\] \[**person**\] appeared and had to \[**verb**\] it immediately\!
+<p style="font-size: 1.8em;">
+  In a <span style="color: grey;">[<strong>adjective</strong>]</span> <span style="color: grey;">[<strong>place</strong>]</span>, 
+  a <span style="color: grey;">[<strong>person</strong>]</span> found a 
+  <span style="color: grey;">[<strong>adjective</strong>]</span> <span style="color: grey;">[<strong>thing</strong>]</span>.<br>
+  Curious, they tried to <span style="color: grey;">[<strong>verb</strong>]</span> it, 
+  but that only made things <span style="color: grey;">[<strong>adjective</strong>]</span>.<br>
+  Moments later, something <span style="color: grey;">[<strong>adjective</strong>]</span> happened 
+  when a <span style="color: grey;">[<strong>adjective</strong>]</span> <span style="color: grey;">[<strong>person</strong>]</span> 
+  appeared and had to <span style="color: grey;">[<strong>verb</strong>]</span> it immediately!
+</p>
 
 --- task ---
 Roll the dice for each bold word above, and look up your words on the table below. 
@@ -53,7 +60,7 @@ Was your story low, medium or high temperature?
 
 --- /task ---
 
-### **Discussion**
+### Discussion
 
 --- task ---
 

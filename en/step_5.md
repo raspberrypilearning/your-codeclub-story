@@ -17,7 +17,7 @@ The higher the “temperature” set for the LLM, the wilder its guesses get. Us
 
 --- task ---
 
-**Set the Temperature**
+**Set the Temperature:**
 
 Choose which table to use by rolling the dice:
 
@@ -29,7 +29,7 @@ This determines which table you should use below when creating your stories.
 
 --- /task ---
 
-### Generate a Story
+**Generate a Story:**
 
 <p style="font-size: 1.4em; text-align: center;">
   In a <span style="color: grey;">[<strong>adjective</strong>]</span> <span style="color: grey;">[<strong>place</strong>]</span>, 

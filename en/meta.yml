@@ -8,6 +8,12 @@ last_tested: "2025-01-01"
 steps:
   - title: What you will make
   - title: Write your Code Club story
+    completion:
+      - engaged
   - title: Talk about your Code Club
   - title: Give your thoughts to an LLM
+    completion:
+      - internal
   - title: Unplugged Activity - LLM Storytime
+    completion:
+      - external

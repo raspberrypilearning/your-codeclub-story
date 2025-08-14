@@ -17,8 +17,8 @@ Name your file with just your first name, like `ava.txt` or `sahjan.txt`
 
 --- task ---
 
-Get your club leader to check your file and use it to help generate the podcast.
+Get your club leader to check your file. If your file is ready, your club leader will give it to a large language model (LLM) so it can generate the podcast!
 
 --- /task ---
 
-In the next step, pretend to be an LLM and generate a crazy story using dice!
+In the next step, while you wait for your podcast to be generated, you'll pretend to be an LLM and generate a crazy story using dice!

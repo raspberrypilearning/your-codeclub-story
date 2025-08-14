@@ -2,7 +2,7 @@
 
 --- task ---
 
-Click File > Save
+Click 'File' > 'Save'
 
 --- /task ---
 
@@ -11,7 +11,7 @@ Click File > Save
 Name your file with just your first name, like `ava.txt` or `sahjan.txt`
 
 - Make sure it ends with `.txt`
-- Don’t include your surname, address or any personal details
+- Don’t include your surname, address, or any personal details
 
 --- /task ---
 

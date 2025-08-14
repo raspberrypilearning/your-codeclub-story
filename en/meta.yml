@@ -14,6 +14,6 @@ steps:
   - title: Give your thoughts to an LLM
     completion:
       - internal
-  - title: Unplugged activity - LLM storytime
+  - title: Unplugged activity — LLM storytime
     completion:
       - external

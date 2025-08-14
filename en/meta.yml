@@ -1,6 +1,6 @@
-title: Your Code Club Podcast
+title: Your Code Club podcast
 hero_image: images/banner.png
-description: Use NotebookLM to turn your writing about your code club into a cool and professional sounding AI-generated podcast!
+description: Use NotebookLM to turn your writing about your Code Club into a cool and professional-sounding AI-generated podcast!
 version: 1
 listed: false
 copyedit: false
@@ -14,6 +14,6 @@ steps:
   - title: Give your thoughts to an LLM
     completion:
       - internal
-  - title: Unplugged Activity - LLM Storytime
+  - title: Unplugged activity: LLM storytime
     completion:
       - external

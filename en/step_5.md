@@ -54,7 +54,7 @@ Your result determines the row (1–6) from the word table. Higher rolls \= stra
 
 --- task ---
 
-Once you have generated a story or two, get ready to share one with the group!
+Once you've generated a story or two, get ready to share one with the group!
 
 Was your story low, medium, or high temperature?
 
@@ -75,7 +75,7 @@ What's the most boring doing word?
 
 **How does temperature affect the story our pretend LLM generated?** 
 
-When you talk about the temperature of an LLM like ChatGPT, what you’re really talking about is how random and strange the words it will use are. Lower temperature means it will use more likely and normal words in your output, while high temperature means weirder, less likely words.
+When you talk about the temperature of an LLM like ChatGPT, what you’re really talking about is how random and strange the words it will use are. Lower temperature means it will use more likely and normal words in its output, while high temperature means weirder, less likely words.
 
 --- /task ---
 

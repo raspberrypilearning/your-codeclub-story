@@ -1,4 +1,4 @@
-## Unplugged Activity: LLM Storytime
+## Unplugged activity: LLM storytime
 
 While you wait for the LLM to create your new podcast, play a fun Unplugged game with your creators where they use dice to make crazy stories, and learn a little bit about how LLMs create sentences.
 
@@ -8,7 +8,7 @@ You're training an AI system called an **LLM** that uses your stories to answer 
 
 The higher the “temperature” set for the LLM, the wilder its guesses get. Use dice rolls to control the **temperature** of a story and see what your LLM comes up with!
 
-### You’ll Need:
+### You’ll need:
 - 6 sided die ([or make your own from paper here](resources/dice.pdf){:target="_blank"})
 - Pencil
 - Handout ([available here](resources/LLMStorytime_creator.pdf){:target="_blank"})
@@ -17,7 +17,7 @@ The higher the “temperature” set for the LLM, the wilder its guesses get. Us
 
 --- task ---
 
-**Set the Temperature:**
+**Set the temperature:**
 
 Choose which table to use by rolling the dice:
 
@@ -29,7 +29,7 @@ This determines which table you should use below when creating your stories.
 
 --- /task ---
 
-### Generate a Story
+### Generate a story
 
 <p style="font-size: 1.4em; text-align: center;">
   In a <span style="color: grey;">[<strong>adjective</strong>]</span> <span style="color: grey;">[<strong>place</strong>]</span>, 
@@ -47,7 +47,7 @@ Roll the dice for each bold word above, and look up your words on the table belo
 Your total determines the row (1–6) from the word table. Higher rolls \= stranger words.
 --- /task ---
 
-###  Word Table
+###  Word table
 
 ![Table with dice rolls that generate a person, thing, place, verb and adjective, grouped by temperature: low, medium and high.](images/word_table.png)
 

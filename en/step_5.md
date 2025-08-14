@@ -75,7 +75,7 @@ What's the most boring doing word?
 
 **How does temperature affect the story our pretend LLM generated?** 
 
-When you talk about the temperature of an LLM like ChatGPT, what you’re really talking about is how random and strange the words it will use are. Lower temperature means it will use more likely and normal words in its output, while high temperature means weirder, less likely words.
+When you talk about the temperature of an LLM like ChatGPT, what you’re really talking about is how random and strange the words it will use are. Lower temperature means it will use more likely and normal words in its output, while higher temperature means weirder, less likely words.
 
 --- /task ---
 

@@ -17,7 +17,7 @@ Name your file with just your first name, like `ava.txt` or `sahjan.txt`
 
 --- task ---
 
-Get your club leader to check your file. If your file is ready, they will give it to a large language model (LLM) so it can generate your podcast!
+Get your club leader to check your file. When everyone's files are ready, your club leader will give them to a large language model (LLM) so it can generate your podcast!
 
 --- /task ---
 

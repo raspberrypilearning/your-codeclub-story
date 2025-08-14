@@ -4,7 +4,7 @@ While you wait for the LLM to create your podcast, play a fun unplugged game! Yo
 
 ### Overview:
 
-You're training an artificial intelligence (AI) system called an **LLM** that uses your stories to answer questions, and make a podcast with AI voices. But an LLM like NotebookLM doesn’t actually think, or understand *anything*: it just guesses what should come next in a sentence.
+You're training an artificial intelligence (AI) system called an **LLM** to make a podcast with AI voices and answer questions. But an LLM like NotebookLM doesn’t actually think, or understand *anything*: it just guesses what should come next in a sentence.
 
 The higher the 'temperature' set for the LLM, the wilder its guesses get. You'll now use dice rolls to generate a story like an LLM and control the story's **temperature**!
 

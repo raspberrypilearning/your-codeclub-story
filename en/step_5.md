@@ -19,13 +19,11 @@ The higher the 'temperature' set for the LLM, the wilder its guesses get. You'll
 
 **Set the temperature:**
 
-Choose which table to use by rolling the dice:
+First, roll a die to determine which part of the word table to use when creating your story:
 
 **1–2** \= Low (predictable and safe)  
 **3–4** \= Medium (balanced and interesting)  
 **5–6** \= High (random and wild)
-
-This determines which table you should use below when creating your stories.
 
 --- /task ---
 
@@ -43,7 +41,7 @@ This determines which table you should use below when creating your stories.
 </p>
 
 --- task ---
-Roll the die for each bold word above, and look up your words in the table below. 
+Next, roll the die for each bold word above, and look up your words in the word table below. 
 Your result determines the row (1–6) from the word table. Higher rolls \= stranger words.
 --- /task ---
 

@@ -19,7 +19,7 @@ The higher the 'temperature' set for the LLM, the wilder its guesses get. You'll
 
 **Set the temperature:**
 
-First, roll a die to determine which part of the word table to use when creating your story:
+First, roll a die. This will determine which part of the word table below you'll use to create your story:
 
 **1–2** \= Low (predictable and safe)  
 **3–4** \= Medium (balanced and interesting)  

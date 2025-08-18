@@ -12,7 +12,7 @@ Use the writing software recommended by your club leader. This might be an onlin
 Open your chosen text editor.
 
 
-Choose your device to find out how to open a plain text editor on your computer:
+Check the instructions below to see how to open a plain text editor on your operating system:
 
 --- collapse ---
 ---

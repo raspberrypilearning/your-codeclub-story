@@ -10,6 +10,8 @@ You just need to tell us about your Code Club, in your own words.
 
 ![NotebookLM interface showing young coders' stories with source file, full text, playback controls, and notes](images/NBLM_screenshot.png)
 
+### Note for Club leaders
+Club leaders can download and use the [mentor helpsheet](resources/Podcast_LeaderPDF-combined.pdf) for tips on getting started.
 
 ### Listen
 

@@ -3,7 +3,7 @@ hero_image: images/banner.png
 description: Use NotebookLM to turn your writing about your Code Club into a cool and professional-sounding AI-generated podcast!
 pdf: resources/CCPodcast_Creator-combined.pdf
 version: 1
-listed: false
+listed: true
 copyedit: false
 last_tested: "2025-01-01"
 steps:
